@@ -22,4 +22,4 @@ the least revenue and how sales change over time.
 - PDF report containing analysis, charts, and conclusions
 
 ## Project Report
-[View the full PDF report](Sales_Performance_Analysis_Report.pdf)
+[View the full PDF report](Sales Performance Analysis Report.pdf)
